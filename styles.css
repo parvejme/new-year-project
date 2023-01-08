@@ -80,6 +80,37 @@
 }
 
 
+/* Some of My Experience */
+.some-of-experience{
+    text-align: center;
+    padding-top: 120px;
+}
+.experience-container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.experience-item{
+    padding: 30px;
+}
+.some-of-experience .section-title{
+    margin-bottom: 35px;
+}
+.experience-container img{
+    width: 100px;
+}
+.item-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    padding: 25px 0;
+}
+.item-description{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+
 /* My Plans Styles */
 .my-plans{
     padding: 120px 0;
